@@ -1,0 +1,20 @@
+# Environment & Secrets
+.env
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Databases & Cache
+*.sqlite
+trading_api_cache.sqlite
+
+# Hugging Face & Sentence Transformers Cache
+cache/
+.cache/

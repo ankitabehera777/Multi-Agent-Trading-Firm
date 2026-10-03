@@ -1,0 +1,8 @@
+pandas
+yfinance
+newsapi-python
+chromadb
+tenacity
+requests-cache
+sqlalchemy
+pymysql
