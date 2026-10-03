@@ -141,7 +141,6 @@ docker-compose down -v       # stop containers and delete data
 - [ChromaDB](https://docs.trychroma.com/)
 - [SQLAlchemy](https://docs.sqlalchemy.org/)
 - [Docker Compose](https://docs.docker.com/compose/)
-- [README template by James Q Quick](https://github.com/jamesqquick/read-me-template)
 
 
 [Back To The Top](#multi-agent-trading-firm)
